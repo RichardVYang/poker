@@ -1,2 +1,2 @@
-# Recursion
-How to use recursion in Java
+# Poker game
+Poker game in Java
